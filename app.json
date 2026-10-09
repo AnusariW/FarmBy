@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FrmBy", "slug": "frmby", "version": "1.0.0", "orientation": "portrait",
+    "userInterfaceStyle": "light", "newArchEnabled": true,
+    "plugins": [
+      ["expo-image-picker", { "photosPermission": "FrmBy needs photo access to upload product images." }],
+      ["expo-location", { "locationWhenInUsePermission": "FrmBy uses your location for pickup and delivery." }]
+    ]
+  }
+}
